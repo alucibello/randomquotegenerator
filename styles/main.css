@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+    background-color: aliceblue;
+}
+button{
+    background-color: wheat;
+    color: cornflowerblue;    
+}
